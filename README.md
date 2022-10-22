@@ -1,5 +1,5 @@
 # Space-Tether-Project-Aerospace-Engineering-
-
+###### Advisor: Dr.Leonard Vance
 ###### Project Overview:
 A space tether is modeled as a long ribbon like structure, with multiple links, that can freely flutter. This project involved writing a MatLab 
 function that calculates the area of each link that is blocked by all the other links at any given instant (i.e. when the space tether is in any 
